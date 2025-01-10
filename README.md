@@ -66,7 +66,7 @@ The dataset used in this project includes RGB and depth images, enabling supervi
 ## **How to Run the Project**
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/Anees1774/Depth-Regression-RGBd.git>
+   git clone <https://github.com/Irpain/depth-regression.git>
    cd <Depth-Regression-RGBd>
    ```
 2. **Run the Jupyter Notebook**:
